@@ -48,7 +48,7 @@ DocNow v2 follows a **decoupled, API-driven architecture**:
 ## 📂 Project Structure (Simplified)
 
 ```bash
-DocNow-v3/
+DocNow-v2/
 ├── backend/
 │ ├── app/
 │ │ ├── routers/
