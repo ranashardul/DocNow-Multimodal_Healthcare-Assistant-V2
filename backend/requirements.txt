@@ -1,0 +1,60 @@
+# =========================
+# Core API Framework
+# =========================
+fastapi
+uvicorn
+
+# =========================
+# Environment & Config
+# =========================
+python-dotenv
+
+# =========================
+# Request Handling
+# =========================
+python-multipart
+pydantic
+filetype
+
+# =========================
+# LLMs & AI Providers
+# =========================
+groq
+openai
+
+# =========================
+# Speech-to-Text
+# =========================
+SpeechRecognition
+whisper
+pydub
+soundfile
+
+# =========================
+# Text-to-Speech
+# =========================
+gtts
+elevenlabs
+pyttsx3
+
+# =========================
+# Image Processing
+# =========================
+pillow
+
+# =========================
+# PDF Generation
+# =========================
+fpdf
+reportlab
+
+# =========================
+# ML / Utilities
+# =========================
+numpy
+torch
+transformers
+requests
+httpx
+tqdm
+typing-extensions
